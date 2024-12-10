@@ -71,5 +71,5 @@ scikit-learn : Algorithmes de machine learning.
 joblib : Sauvegarde des modèles.
 streamlit : Développement d'applications web interactives.
 
-👥 Auteurs
+👥 Auteur
 [khalid-OURO-ADOYI] - Ingénieur data
