@@ -70,3 +70,6 @@ numpy : Calculs numériques.
 scikit-learn : Algorithmes de machine learning.
 joblib : Sauvegarde des modèles.
 streamlit : Développement d'applications web interactives.
+
+👥 Auteurs
+[khalid-OURO-ADOYI] - Ingénieur data
