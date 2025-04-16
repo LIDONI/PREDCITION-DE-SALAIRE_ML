@@ -27,7 +27,7 @@ Les performances des modèles sont comparées pour sélectionner celui offrant l
 ✔️ Sauvegarde et déploiement des modèles avec joblib.
 ✔️ Création d'une interface utilisateur simple et intuitive avec Streamlit.
 
-3️⃣ Dataset
+**Dataset**
 Les données incluent des informations sur les employés :
 
 Feature	Description
