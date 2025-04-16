@@ -1,4 +1,5 @@
-**PREDICTION-DE-SALAIRE_ML**
+#**PREDICTION-DE-SALAIRE_ML**
+
 Prédiction de Salaires avec Machine Learning et Streamlit
 Ce projet consiste à prédire le salaire d'un employé en fonction de certaines caractéristiques telles que :
 
@@ -7,8 +8,10 @@ Niveau de satisfaction
 Nombre moyen d'heures travaillées par mois
 Les données sont analysées, des modèles de machine learning sont entraînés, et une application web interactive est déployée pour permettre des prédictions en temps réel.
 
-🌟 Structure du Projet
-1️⃣ Introduction
+**Structure du Projet**
+1
+**Introduction**
+
 Ce projet vise à résoudre un problème de régression en utilisant différents modèles de machine learning :
 
 Régression Linéaire (Linear Regression)
@@ -16,7 +19,8 @@ Support Vector Regression (SVR)
 Random Forest Regressor
 Les performances des modèles sont comparées pour sélectionner celui offrant les meilleurs résultats. Le modèle final est intégré dans une application Streamlit pour un usage interactif.
 
-2️⃣ Fonctionnalités
+**Fonctionnalités**
+
 ✔️ Chargement et prétraitement des données (CSV).
 ✔️ Exploration et normalisation des données.
 ✔️ Entraînement et évaluation de modèles de machine learning.
@@ -37,7 +41,9 @@ Average_Monthly_Hours	Nombre moyen d’heures travaillées par mois.
 Promotion_Last_5Years	Promotion dans les 5 dernières années.
 Salary	Salaire annuel.
 Attrition	Indique si l'employé a quitté l'entreprise.
-💻 Application Streamlit
+
+**Application Streamlit**
+
 L'application interactive permet de prédire le salaire d'un employé :
 
 Saisissez les informations suivantes :
@@ -46,7 +52,9 @@ Niveau de satisfaction.
 Heures travaillées.
 Appuyez sur le bouton : "Press for predicting the salary".
 Obtenez une estimation instantanée du salaire.
-4️⃣ Modèles Implémentés
+
+**Modèles Implémentés**
+
 Le projet utilise plusieurs modèles pour prédire les salaires :
 
 Régression Linéaire : Simple et efficace pour des relations linéaires.
@@ -54,7 +62,8 @@ SVR (Support Vector Regression) : Pour capturer les relations non linéaires.
 Random Forest Regressor : Approche robuste basée sur des arbres décisionnels.
 Optimisation : Les hyperparamètres des modèles SVR et Random Forest sont ajustés grâce à GridSearchCV pour de meilleures performances.
 
-5️⃣ Résultats
+**Résultats**
+
 Les performances des modèles sont évaluées avec les métriques suivantes :
 
 Métrique	Description
@@ -62,7 +71,8 @@ Mean Absolute Error (MAE)	Indique la précision moyenne des prédictions.
 Root Mean Squared Error (RMSE)	Mesure la dispersion des prédictions.
 Le modèle final est sauvegardé sous le nom model.pkl.
 
-📦 Dépendances
+**Dépendances**
+
 Le projet utilise les bibliothèques suivantes :
 
 pandas : Manipulation des données.
@@ -71,5 +81,6 @@ scikit-learn : Algorithmes de machine learning.
 joblib : Sauvegarde des modèles.
 streamlit : Développement d'applications web interactives.
 
-👥 Auteur
+**Auteur**
+
 [khalid-OURO-ADOYI] - Ingénieur data
