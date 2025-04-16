@@ -1,4 +1,4 @@
-#**PREDICTION-DE-SALAIRE_ML**
+**#PREDICTION-DE-SALAIRE_ML**
 
 Prédiction de Salaires avec Machine Learning et Streamlit
 Ce projet consiste à prédire le salaire d'un employé en fonction de certaines caractéristiques telles que :
